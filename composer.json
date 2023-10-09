@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/underworf/bitcoin-lib-php.git"
+            "url": "https://github.com/underworf/bitcoin-lib-underworf.git"
         }
     ],
     "autoload": {
